@@ -52,9 +52,9 @@ The dataset contains the following key columns:
 ---
 
 ## 📁 **Project Purpose**
-This project is built as part of a **Data Visualization learning portfolio** to demonstrate data storytelling using real-world sales data.
+This project was created as part of a Data Visualization learning portfolio, with the goal of demonstrating how raw business data can be transformed into meaningful insights through clear and interactive storytelling. By focusing on BMW’s sales performance across models, regions, and channels, the dashboard highlights the practical application of Power BI and Excel in solving real-world business problems.
 
----
+The purpose goes beyond simply reporting numbers—it emphasizes the importance of data-driven decision making. Through visual exploration, users can identify top-performing models, compare regional markets, and evaluate the effectiveness of different sales channels. These insights can help businesses optimize their strategies, improve customer engagement, and forecast future growth.
 
 ## 🏷️ **Tags**
 `PowerBI` • `Data Analysis` • `Dashboard` • `BMW` • `Sales Analytics` • `Business Intelligence`
